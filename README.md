@@ -32,10 +32,11 @@ Visualize and optimize marketing campaigns with a Power BI dashboard enhanced by
 - `power-automate/notify-marketing-flow.json`
 
 ## 📸 Visuals  
- ![image.png](attachment:c801894b-c6d5-4e1b-a853-5912b68f9a97:image.png)
-![image.png](attachment:708e36d2-9519-4afc-977f-26aadf699782:image.png)
-![image.png](attachment:d39aa3ab-7ad9-4895-bd55-1d48d6243567:image.png)
-![image.png](attachment:0a5948c4-e252-431f-960f-ae6867c3385e:image.png)
+<img width="1531" height="939" alt="Screenshot 2025-07-21 204945" src="https://github.com/user-attachments/assets/fdfb30af-0428-46f7-8e68-f0ee19f73404" />
+<img width="1480" height="499" alt="Screenshot 2025-07-21 205258" src="https://github.com/user-attachments/assets/5890d02e-389a-4d5a-a598-7788aa0a430b" />
+<img width="347" height="252" alt="Screenshot 2025-07-21 205642" src="https://github.com/user-attachments/assets/8ff9f6ad-a706-41d2-86f2-86f974503189" />
+<img width="1083" height="785" alt="Screenshot 2025-07-21 214900" src="https://github.com/user-attachments/assets/3adde25c-9f85-4d2a-b25f-ea39333ce730" />
+
 
  ## ✍️ Author
 Palak Chaturvedi  
