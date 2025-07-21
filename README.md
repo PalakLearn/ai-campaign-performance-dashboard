@@ -2,10 +2,10 @@
 Power BI campaign performance dashboard with OpenAI integration for automated insights and marketing recommendations.
 # 📊 AI-Powered Campaign Performance Dashboard
 
-## 🔍 Objective  
+##  Objective  
 Visualize and optimize marketing campaigns with a Power BI dashboard enhanced by OpenAI-generated insights and recommendations.
 
-## 🛠 Tools Used  
+##  Tools Used  
 - Power BI  
 - Dynamics 365 Marketing  
 - Dataverse  
@@ -13,7 +13,7 @@ Visualize and optimize marketing campaigns with a Power BI dashboard enhanced by
 - OpenAI API (GPT-4)  
 - Azure SQL (optional)
 
-## 🔄 Workflow  
+##  Workflow  
 1. Import campaign metrics from Dynamics 365  
 2. Analyze campaign performance (open rate, CTR, conversions, bounce rate)  
 3. Trigger OpenAI API to generate insights (e.g., “Your CTR dropped 15% on email A due to poor CTA”)  
@@ -25,7 +25,7 @@ Visualize and optimize marketing campaigns with a Power BI dashboard enhanced by
 - Reduced analysis time from 2 hours to 5 minutes  
 - Empowered marketers with AI-powered recommendations
 
-## 🧩 Files Included  
+##  Files Included  
 - `pbix-file/campaign-dashboard.pbix`  
 - `openai-insights/insight-generation-prompt.txt`  
 - `queries/Sample OpenAI-generated insight`  
