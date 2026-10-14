@@ -41,6 +41,6 @@ Visualize and optimize marketing campaigns with a Power BI dashboard enhanced by
 
  ## ✍️ Author
 Palak Chaturvedi  
-[LinkedIn](https://linkedin.com/in/palak-chaturvedi) | [Portfolio](https://www.notion.so/AI-Powered-Campaign-Performance-Dashboard-237080ad24ae80b9a954d030698bb6ee)
+[LinkedIn](https://www.linkedin.com/in/palak-chaturvedi-a25323211/) | [Portfolio](https://www.notion.so/AI-Powered-Campaign-Performance-Dashboard-237080ad24ae80b9a954d030698bb6ee)
 
 
